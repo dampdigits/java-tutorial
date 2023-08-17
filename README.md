@@ -17,9 +17,12 @@ There are two folders:
   - Each sub-folder in this folder contains:
     - a java program for a problem
     - a README file that defines the problem
+    - other file(s) or folder(s) that may be required for the problem
 
 2. Solutions
-- Each sub-folder in this folder contains a java program with the solution of the corresponding problem.
+- Each sub-folder in this folder contains:
+  - a java program with the solution
+  - a .class file that gives desired outputs
 
 ## Usage
 
