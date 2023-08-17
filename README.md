@@ -29,7 +29,7 @@ There are two folders:
 
 ## Contributing
 
-If you would like to improve the problems or solutions or create new ones with proper documentation, you are welcomed to do so. Please fork it and submit a pull request with your changes.
+If you would like to improve the problems, solutions or create new ones with proper documentation, you are welcomed to do so. Please fork it and submit a pull request with your changes.
 
 ## License
 
