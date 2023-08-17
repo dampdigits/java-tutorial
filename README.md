@@ -14,10 +14,10 @@ This repository contains tutorial programs on Java for students. The purpose thi
 There are two folders:
 
 1. Problems
-  - Each sub-folder in this folder contains:
-    - a java program for a problem
-    - a README file that defines the problem
-    - other file(s) or folder(s) that may be required for the problem
+- Each sub-folder in this folder contains:
+  - a java program for a problem
+  - a README file that defines the problem
+  - other file(s) or folder(s) that may be required for the problem
 
 2. Solutions
 - Each sub-folder in this folder contains:
@@ -36,4 +36,4 @@ If you would like to improve the problems, solutions or create new ones with pro
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
