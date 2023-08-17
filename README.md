@@ -1,6 +1,6 @@
 # Java Tutorial
 
-This repository contains tutorial programs on Java for students. The purpose this repository is to help students learn different concepts and apply logic to solve problems.
+This repository contains tutorial programs on Java for students. This repository is meant to help students learn different concepts of java programming and apply logic to solve problems.
 
 ## Table of Contents
 
@@ -11,28 +11,29 @@ This repository contains tutorial programs on Java for students. The purpose thi
 
 ## File-System
 
-There are two folders:
+This repository contains two main folders:
 
-1. Problems
-- Each sub-folder in this folder contains:
-  - a java program for a problem
-  - a README file that defines the problem
-  - other file(s) or folder(s) that may be required for the problem
-
-2. Solutions
-- Each sub-folder in this folder contains:
-  - a java program with the solution
-  - a .class file that gives desired outputs
+- Problems: It contains a README file which lists all the problems in this tutorial.
+- Solutions: Each sub-folder in this folder contains:
+    1. a java program with the solution
+    2. a .class file that gives desired outputs
 
 ## Usage
 
-1. Students are advised to fork individual programs which will create a copy of the programs in their own GitHub account.
-2. In their forks they can then create solutions for the problems.
-3. Students are advised to try and solve the problems on their own and get the desired output before looking at the solutions.
+- To solve a problem, students are advised to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) that program from its respective repository which will create a copy of that program in their own GitHub account.
+  - *How to fork a problem?*
+     
+- In each fork they can code their own solution to the problem.
+  - *How to solve ?*
+  
+- Students are advised to try and solve the problems on their own and get the desired output before looking at the solutions.
+  - *How to find solutions?*
 
 ## Contributing
 
-If you would like to improve the problems, solutions or create new ones with proper documentation, you are welcomed to do so. Please fork it and submit a pull request with your changes.
+Improvements to this tutorial are welcomed.
+If you would like to improve any problem go to [problems](problems), go to the repository of that problem linked in the [problems/README.md](problems/README.md) Please fork it and submit a pull request with your changes.
+If 
 
 ## License
 
