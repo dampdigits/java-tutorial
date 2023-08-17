@@ -19,7 +19,7 @@ There are two folders:
     - a README file that defines the problem
 
 2. Solutions
-   - Each sub-folder in this folder contains a java program with the solution of the corresponding problem.
+- Each sub-folder in this folder contains a java program with the solution of the corresponding problem.
 
 ## Usage
 
