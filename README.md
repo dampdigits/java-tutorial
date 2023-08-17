@@ -4,12 +4,12 @@ This repository contains tutorial programs on Java for students. The purpose thi
 
 ## Table of Contents
 
-- [File System](#file_system)
+- [File-System](#file-system)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## File System
+## File-System
 
 There are two folders:
 
