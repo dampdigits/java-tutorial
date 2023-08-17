@@ -13,7 +13,7 @@ This repository contains tutorial programs on Java for students. The purpose thi
 
 There are two folders:
 
-1. Problmes
+1. Problems
   - Each sub-folder in this folder contains:
     - a java program for a problem
     - a README file that defines the problem
