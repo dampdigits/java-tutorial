@@ -23,7 +23,7 @@ There are two folders:
 
 ## Usage
 
-1. Students are advised to fork individual programs (folders in this repository) which will create copies of the programs in their own GitHub account.
+1. Students are advised to fork individual programs which will create copies of the programs in their own GitHub account.
 2. In their forks they can then create solutions for the problems.
 3. Students are advised to try and solve the problems on their own and get the desired output before looking at the solutions.
 
