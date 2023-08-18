@@ -54,24 +54,26 @@ class FindWord {
 
             // Extract character
             char ch = text.charAt(index);
-
-            // Check if end of a word in text or end of text
-            if ((ch == ' ') || (index == lineLength - 1)) {
-
-                // Check for an occurence of word.
+			
+			// Concatenate the character to tmp if its a letter
+			if (Character.isLetter(ch)) // or check using ASCII values for letters
+			{
+				/* Concatenate character to temporary variable,
+                   to create the next word in text */
+                tmp += ch;
+				
+			}
+			// Check if tmp equals word if the character is the last letter or if its not a letter
+			if ((Character.isLetter(ch) && (index == lineLength - 1)) ||
+				(!Character.isLetter(ch))) {
+				// Check for an occurence of word.
                 if (tmp.equals(word)) {
                     // Increment count.
                     ++count;
                 }
                 // Empty temporary variable to store next word if any.
                 tmp = "";
-            }
-            // If not an end of a word from text or end of text itself.
-            else {
-                /* Concatenate character to temporary variable,
-                   to create the next word in text */
-                tmp += ch;
-            }
+			}
         }
 
         return count;
