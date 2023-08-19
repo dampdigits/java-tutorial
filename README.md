@@ -14,7 +14,7 @@ This repository contains tutorial programs on Java for students. This repository
 This repository contains two main folders:
 
 - [Problems](problems): This folder contains a README file which lists all the problems in this tutorial.
-- [Solutions](solutions): This folder contains a sub-folder for each problem in [problems](-problems). Each sub-folder contains:
+- [Solutions](solutions): This folder contains a sub-folder for each problem in **problems**. Each sub-folder contains:
     - a java program with the solution
     - a .class file that gives desired outputs
     - any other folder or files that might be necessary to test the program
