@@ -14,14 +14,14 @@ This repository contains tutorial programs on Java for students. This repository
 This repository contains two main folders:
 
 - [Problems](problems) - This folder contains a README file which lists all the problems in this tutorial.
-- [Solutions](solutions)- This folder contains a sub-folder for each problem in **problems**. Each sub-folder contains:
+- [Solutions](solutions) - This folder contains a sub-folder for each problem in **problems**. Each sub-folder contains:
     - a java program with the solution
     - a .class file that gives desired outputs
     - any other folder or files that might be necessary to test the program
 
 ## Usage
 
-- To solve a problem, students are advised to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) that program from its respective repository which will create a copy of that program in their own GitHub account.
+- To solve a problem, you must [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) that repopsitory fof the problem which will create a copy of that program in their own GitHub account.
   - *How to fork a problem?*
      
 - In each fork they can code their own solution to the problem.
