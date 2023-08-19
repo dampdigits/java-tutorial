@@ -13,11 +13,11 @@ This repository contains tutorial programs on Java for students. This repository
 
 This repository contains two main folders:
 
-- Problems:
-  This folder contains a README file which lists all the problems in this tutorial.
-- Solutions: Each sub-folder in this folder contains:
-    1. a java program with the solution
-    2. a .class file that gives desired outputs
+- [Problems](problems): This folder contains a README file which lists all the problems in this tutorial.
+- [Solutions](solutions): This folder contains a sub-folder for each problem in [problems](#problems). Each sub-folder contains:
+    - a java program with the solution
+    - a .class file that gives desired outputs
+    - any other folder or files that might be necessary to test the program
 
 ## Usage
 
