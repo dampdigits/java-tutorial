@@ -1,8 +1,8 @@
-#Java Tutorial
+# Java Tutorial
 
 This repository contains tutorial programs on Java for students. This repository is meant to help students learn different concepts of java programming and apply logic to solve problems.
 
-##Table of Contents
+## Table of Contents
 
 - [File-System](#file-system)
 - [Usage](#usage)
@@ -10,7 +10,7 @@ This repository contains tutorial programs on Java for students. This repository
 - [License](#license)
 - [Author](#author)
 
-##File-System
+## File-System
 
 This repository contains two main folders:
 
@@ -20,7 +20,7 @@ This repository contains two main folders:
     - a .class file that gives desired outputs
     - any other folder or files that might be necessary to test the program
 
-##Usage
+## Usage
 
 - To solve a problem, you are suggested to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo?platform=windows&tool=webui#about-forks) the repository of that problem which will create a copy of that repository in your own GitHub account where you can write your source code.
 
@@ -69,11 +69,11 @@ This repository contains two main folders:
 
   **Note:** Don't forget to [stop your codespaces](https://docs.github.com/en/codespaces/developing-in-codespaces/stopping-and-starting-a-codespace) when you are done.
 
-##Contributing
+## Contributing
 
 Improvements to this tutorial are welcomed. Please fork it and submit a pull request with your changes.
 
-##License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
