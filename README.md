@@ -70,10 +70,12 @@ This repository contains two main folders:
 
 ## Contributing
 
-Improvements to this tutorial are welcomed.
-If you would like to improve any problem go to [problems](problems), go to the repository of that problem linked in the [problems/README.md](problems/README.md) Please fork it and submit a pull request with your changes.
-If 
+Improvements to this tutorial are welcomed. Please fork it and submit a pull request with your changes.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Author
+
+[Sk. Sameer Salam (@its-triple-s)](https://github.com/its-triple-s)
