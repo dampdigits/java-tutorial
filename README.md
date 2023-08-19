@@ -25,7 +25,7 @@ This repository contains two main folders:
 
   **How to fork a problem?**
 
-    1. Go to the [problems](problems) folder and from the [README.md](problems/README.md) file click on the problem you want to solve, say for example Find-Word. This will direct you to the repository of Find-Word.
+    1. Go to the [problems](problems) folder and from the [PROBLEMS.md](problems/PROBLEMS.md) file click on the problem you want to solve, say for example Find-Word. This will direct you to the repository of Find-Word.
 
        ![fork1](https://github.com/its-triple-s/java-tutorial/assets/113439449/79222b40-4857-4be1-b89c-73df9389176a)
 
