@@ -23,7 +23,7 @@ This repository contains two main folders:
 
 - To solve a problem, you must [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) that repository of the problem which will create a copy of that repository in your own GitHub account where you can write your source code.
   - *How to fork a problem?*
-    1. Go to [problem](problems) and from the [README.md](problems/README.md) file click on the problem you want to solve. This will direct you to the repository of that problem. 
+    1. Go to the [problems](problems) folder and from the [README.md](problems/README.md) file click on the problem you want to solve. This will direct you to the repository of that problem. 
      
 - In each fork they can code their own solution to the problem.
   - *How to solve ?*
