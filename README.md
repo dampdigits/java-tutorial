@@ -21,7 +21,7 @@ This repository contains two main folders:
 
 ## Usage
 
-- To solve a problem, you must [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) that repopsitory fof the problem which will create a copy of that program in their own GitHub account.
+- To solve a problem, you must [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) that repository of the problem which will create a copy of that repository in your own GitHub account.
   - *How to fork a problem?*
      
 - In each fork they can code their own solution to the problem.
