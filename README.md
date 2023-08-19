@@ -8,6 +8,7 @@ This repository contains tutorial programs on Java for students. This repository
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Author](#author)
 
 ##File-System
 
