@@ -49,11 +49,11 @@ This repository contains two main folders:
      
      or
 
-     Click on the profile picture of your GitHub account to open the menu on the right-side of your screen.
+     Click on the profile picture of your GitHub account in the top right corner. From the menu click on **Your codespaces**.
      
      ![codespace1](https://github.com/its-triple-s/java-tutorial/assets/113439449/b009b8bc-bc5e-4a5a-b373-0d08ff021758)
 
-     From that menu click on **Your codespaces**. In your codespaces page click on **New codespace**.
+     In your codespaces page click on **New codespace**.
 
      ![codespace2](https://github.com/its-triple-s/java-tutorial/assets/113439449/fb7613d0-ce7c-42c7-b225-774e1de3e485)
 
