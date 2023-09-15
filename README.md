@@ -79,4 +79,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Sk. Sameer Salam (@its-triple-s)](https://github.com/its-triple-s)
+[Sk. Sameer Salam (@sksameersalam)](https://github.com/sksameersalam)
