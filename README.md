@@ -79,4 +79,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Sk. Sameer Salam (@sksameersalam)](https://github.com/sksameersalam)
+[Sk. Sameer Salam (@sksameersalam)](https://github.com/dampdigits)
